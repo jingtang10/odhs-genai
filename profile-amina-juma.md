@@ -1,4 +1,4 @@
-#Patient Profile: Amina Juma
+# Patient Profile: Amina Juma
 
 ## Demographics:
 
